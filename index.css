@@ -1,0 +1,72 @@
+html body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Roboto', sans-serif;
+      overflow: hidden;
+      
+}
+.main{
+      padding: 8cap;
+}
+.game{
+      height: 340px;
+      gap: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+.score{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: 700;
+      height: 70px;
+      background-color: yellow;
+      border: 3px solid;
+      border-radius: 10px;
+      width: 100px;
+      text-align: center;
+      margin-bottom: 11px;
+      margin-left: 250px;
+      gap: 20px;
+      font-size: x-large;
+
+
+}
+.score:hover{
+      background-color: rgb(249, 249, 5);
+      text-decoration: underline;
+      
+}
+.wim{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: x-large;
+      font-weight:800;
+      color: rgb(225, 225, 6);
+
+}
+.Wrzz{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: x-large;
+      font-weight:800;
+}
+.hd{
+      display: grid;
+      place-items: center;
+
+}
+.user {
+      border: 2px solid;
+      height: 240px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      justify-content: center;
+
+}
+
